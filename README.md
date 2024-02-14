@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantiagoAgdo
-- 👀 I’m interested in Java,Go,Angular,Python,TS
+- 👀 I’m interested in Java,Go,Angular,Python
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on Projects interesting
 - 📫 How to reach me santiago.agdor@gmail.com
